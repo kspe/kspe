@@ -1,23 +1,22 @@
 ## Hey there! 👋
 
-I'm Ignacy — a software engineer who enjoys building things that work well and solving interesting problems.
+I'm Ignacy — a passionate geek who left the corporate galaxy to explore the Open Source universe. Currently leading engineering at [Farmgirl Flowers](https://www.farmgirlflowers.com/) 🌸
 
-### What I work with
+### What I love working on
 
-- **Languages**: Python, JavaScript/TypeScript, Go
-- **Cloud & DevOps**: AWS, Docker, Kubernetes, CI/CD
-- **Tools**: Git, Linux, various APIs and frameworks
+- **Infrastructure**: High-scale systems, operating systems, cluster file systems
+- **Languages**: Ruby (constantly improving my Ruby Fu!), Python, JavaScript/TypeScript, Bash
+- **Low-level stuff**: Assembler quirks, debugging complex systems
+- **DevOps**: Linux administration, application clusters, AWS, Docker, Kubernetes
 
-### Currently
+### A bit about me
 
-Working on infrastructure automation and exploring new ways to make software more reliable and maintainable.
+I studied Control Engineering at Gdańsk University of Technology and spent time in semiconductors before diving into full-stack development and infrastructure. I'm all about neat solutions whether they're for massive infrastructures or tiny system-level optimizations.
 
 ### Let's connect
-
-Feel free to reach out if you want to chat about tech, collaborate on projects, or just say hi!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ignacykasperowicz/)
 
 ---
 
-_"Make it work, make it right, make it fast" — in that order._
+_Building systems that actually work, one cluster at a time._
